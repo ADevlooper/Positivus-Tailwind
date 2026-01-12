@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+    --font-grotesk: Space Grotesk;
+}
+
+.gc{
+    background-color:#b9ff66;
+}
+.wc{
+    background-color:#f3f3f3;
+}
+.dc{
+    background-color:#191a23;
+}
